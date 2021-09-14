@@ -1,2 +1,2 @@
 # hello-world
-Github project
+Github project and Exploring DevOps 
